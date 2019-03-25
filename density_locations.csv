@@ -1,0 +1,158 @@
+,prefix,lat,lon,name,category,unique,total
+0,aaf,29.650275,-82.34572,Academic Advising Center,admin,343,1684
+1,adv,29.648791999999997,-82.359303,Martin H. Levin Advocacy Center,academic,25,261
+2,aer,29.643271999999996,-82.3483,Mec. Aerospace Engineering,academic,43,240
+3,alf,29.642947999999997,-82.348636,Alfred A. Ring Tennis Pavilion,sports,0,0
+4,and,29.651573,-82.341939,Anderson Hall,academic,429,1163
+5,ans,29.631292,-82.351768,Animal Science Building,academic,15,84
+6,apl,29.646905,-82.343942,Aquatic Products Lab,academic,666,2819
+7,arch,29.647656,-82.341748,School of Architecture,academic,581,11727
+8,aud,29.648887,-82.34290899999999,University Auditorium,academic,92,259
+9,bar,29.643915000000003,-82.344403,Bartram Hall,academic,16,149
+10,bcf,29.639509000000004,-82.359952,BioContainment Facility,unknown,0,0
+11,bcftr,29.639518,-82.359949,Bio-Containment Facility,academic,3,6
+12,ben,29.647961,-82.351393,Tolbert Hall,housing,44,460
+13,bgh,29.649216,-82.359055,Bruton-Geer Hall,admin,115,796
+14,blk,29.641892,-82.347876,Black Hall,academic,29,383
+15,bro,29.646552000000003,-82.342104,Broward Hall,housing,225,2956
+16,brt,29.648906,-82.345784,Bryant Space Science Center,academic,524,2649
+17,bwc,29.645353999999998,-82.347903,UF bookstore,social,0,0
+18,bwcbookstore,29.645256,-82.34770999999999,UF Bookstore,social,290,852
+19,bwcg,29.645442,-82.34805300000001,UF Welcome Center,admin,295,849
+20,car,29.64903,-82.341675,Carleton Auditorium,academic,90,263
+21,cbd,29.652971,-82.342913,Classroom Building 105,academic,53,295
+22,cenx,29.643928000000002,-82.34306600000001,Centrex Building,police,5,19
+23,che,29.64272,-82.34787299999999,Dept. of Chemical Engineering,academic,53,2302
+24,clb,29.650947,-82.344073,Chemistry Lab,academic,220,1206
+25,con,29.64635,-82.346664,Constans Theatre,social,315,1549
+26,crec,29.639071,-82.368803,Center for Outdoor Rec. & Educ.,sports,20,350
+27,cris,29.650129999999997,-82.34160200000001,Criser Hall,admin,109,597
+28,crr,29.643859000000003,-82.344859,Carr Hall,academic,17,133
+29,cse,29.64821,-82.344387,CISE,academic,561,3345
+30,csfl,29.633671999999997,-82.361716,Crops And Soils Field Lab,academic,4,7
+31,cwp,29.648189000000002,-82.34849799999999,Lacy R. Chilled Water Plt. CWP2,unknown,1,5
+32,dau,29.649895,-82.34497900000001,Dauer Hall,academic,232,561
+33,dinefreshfood,29.647025,-82.341302,Fresh Food,social,206,701
+34,edb,29.641637,-82.348364,Engineering Design Building,academic,29,109
+35,ehs,29.64353,-82.343826,Env. Health and Safety EHS,unknown,38,99
+36,elm,29.643476,-82.36618399999999,Elmore Hall,admin,42,139
+37,eyn,29.634543,-82.366474,Entomology-Nematology,academic,77,369
+38,faa,29.648127000000002,-82.340636,Fine Arts A,academic,130,472
+39,fab,29.648118,-82.339764,Fine Arts B,academic,193,598
+40,fac,29.647768,-82.340343,Fine Arts C,academic,517,3720
+42,fad,29.648372,-82.340171,Fine Arts D,academic,91,357
+42,ff,29.638503000000004,-82.357321,Forestry Resource and Conserv. FF1,unknown,36,72
+43,ff1,29.638525,-82.35733,Forestry Resource and Conservation,admin,0,0
+44,fif,29.63847,-82.361135,Fifield Hall,academic,101,437
+45,flg,29.649463,-82.34729399999999,Florida Gym,sports,337,1508
+46,fli,29.651575,-82.34385,Keene-Flint Hall,academic,400,1433
+47,flih,29.649981,-82.33270300000001,Innovation Hub,academic,66,432
+48,flo,29.650131,-82.343723,Griffin-Floyd Hall,academic,306,1012
+49,fpof,29.650470000000002,-82.347275,Florida Pool Offices/Lockers,sports,217,1278
+50,fsf,29.648006,-82.350075,Gator Corner Dining Center,social,414,1575
+51,ger,29.650745,-82.340119,Gerson Hall,academic,36,103
+52,gri,29.649287,-82.342056,Grinter Hall,academic,506,1380
+53,harn,29.637031,-82.37024699999999,Harn Museum Of Art,museum,116,815
+54,her,29.651103000000003,-82.3486,Heritage Hall,academic,333,1386
+55,hgs,29.650422999999996,-82.340748,Hough Hall Business School,unknown,530,5396
+56,hol,29.649817,-82.359215,Holland Law Center,academic,608,8578
+57,hrb,29.651757,-82.334063,HR Building,admin,200,626
+58,hub,29.648251000000002,-82.345586,The Hub,social,308,1097
+59,hume,29.644505,-82.35244200000001,Hume Commons,housing,78,374
+60,iblc,29.652301,-82.34214200000001,Institute Of Black Culture,social,445,829
+61,ihlc,29.652293,-82.341916,Hispanic/Latino Cultures Inst,social,318,538
+62,imag,29.637809999999998,-82.36290799999999,Mycology Lab,academic,41,99
+63,impl,29.645697,-82.343192,Office Building,admin,98,319
+64,inf,29.649513,-82.34650500000001,Infirmary,academic,58,226
+65,jen,29.644393,-82.342214,Jennings Hall Office,admin,654,1957
+66,lar,29.643124,-82.347321,Larsen Hall,academic,37,183
+67,lbw,29.651120000000002,-82.34288000000001,Library West,library,796,9163
+68,lit,29.648846000000002,-82.34069699999999,Little Hall,academic,123,538
+69,mae,29.64668,-82.34920100000001,Materials Engineering,academic,131,385
+70,maec,29.647327,-82.349466,MAE C,academic,326,842
+71,mat,29.651649,-82.341016,Matherly Hall,academic,164,548
+72,mcca,29.646982,-82.34553100000001,Mccarty Hall A,academic,120,758
+73,mccb,29.646753999999998,-82.34492,Mccarty Hall B,academic,50,631
+74,mccc,29.646682000000002,-82.345338,Mccarty Hall C,academic,53,306
+75,mccd,29.646459999999998,-82.344389,Mccarty Hall D,academic,66,208
+76,mcg,29.636058000000002,-82.37084499999999,Mcguire Center,academic,29,141
+77,mckl,29.648039,-82.346425,Microkelvin Laboratory,academic,30,79
+78,mcsb,29.639963,-82.36288499999999,Microbiology/Cell Science,academic,88,486
+79,meb,29.641979,-82.34407900000001,Harrell Medical Education Building,academic,369,1560
+80,meh,29.632906,-82.361672,Mehrhof Hall,academic,104,226
+81,msl,29.647957,-82.34390400000001,Marston Science Library,library,627,3868
+82,mub,29.648244000000002,-82.342908,Music Building,academic,541,3588
+83,mus,29.644484000000002,-82.3441,Dickinson Hall,academic,255,635
+84,nano,29.642764,-82.34612299999999,Nanoscale Research,academic,97,348
+85,neb,29.642287,-82.347076,New Engineering Building,unknown,135,2909
+86,npb,29.643913,-82.349779,Physics,academic,218,1445
+87,nrg,29.646251,-82.33796600000001,Norman Gym,sports,92,251
+88,nrn,29.646946999999997,-82.338164,Norman Hall,academic,302,1104
+89,nrna,29.646645,-82.337581,Norman Hall Addition,academic,164,1274
+90,nsc,29.647381,-82.347996,Nuclear Sciences,academic,387,1602
+91,nzh,29.645391999999998,-82.345778,Newins-Ziegler Hall,academic,117,451
+92,ohl1,29.639753999999996,-82.358956,Ornamental Hort Laboratory 1,academic,0,0
+93,ohl2,29.639824,-82.358554,Ornamental Hort Laboratory 2,academic,0,0
+94,pcpa,29.635312,-82.369309,Phillips Center,social,136,1627
+95,pdc,29.642947999999997,-82.369274,Physical Plant Central Stores,academic,21,44
+96,phl,29.644585,-82.34878,Phelps Lab,academic,125,317
+97,plsl,29.639079,-82.35834399999999,Agronomy Plant Science Lab,academic,1,2
+98,pow,29.635726000000002,-82.370236,Powell Hall,museum,47,687
+99,pres,29.648184000000004,-82.36085,Presidents Residence,housing,0,0
+100,psf,29.639481,-82.359603,Plant Science Facility,academic,1,4
+101,pst,29.641503999999998,-82.34788499999999,Particle Science & Technology,academic,12,31
+102,psy,29.643418,-82.346266,Psychology,academic,59,201
+103,pugh,29.649468,-82.345665,Pugh Hall,academic,149,466
+104,rcd,29.650076000000002,-82.34634,Racquet Club Dining Center,social,250,926
+105,rei,29.646386,-82.34779,Reitz Student Union,social,1489,21256
+106,reiOrangeBrew,29.646386,-82.34779,Reitz Student Union,social,1489,21256
+107,rfc,29.650147999999998,-82.346799,Student Recreation and Fit. Center,sports,149,1220
+108,rhn,29.647253000000003,-82.348948,Rhines Hall,academic,196,860
+109,rl1,29.6331705,-82.361041,Research Laboratorys,academic,0,0
+110,rla,29.647983,-82.34810999999999,Reed Lab,academic,134,264
+111,rnk,29.646965,-82.34319599999999,Rinker Hall,academic,34,415
+112,rog,29.644495000000003,-82.345433,Rogers Frazier Hall,academic,384,1378
+113,rol,29.649259000000004,-82.344494,Rolfs Hall,academic,174,649
+114,sbh,29.647646999999996,-82.342621,Steinbrenner,social,123,764
+115,sis,29.650019,-82.344212,Sisler Hall Chemistry Research Bldg,academic,0,0
+116,sma,29.650878000000002,-82.341791,Smathers Library,library,216,430
+117,soc,29.649461,-82.351125,OConnell Center,unknown,868,10589
+118,sta,29.649960999999998,-82.34951099999999,Ben Hill Griffin Stadium,sports,255,1264
+119,stz,29.650832,-82.341177,Stuzin Hall,academic,151,892
+120,stzWlkwy,29.650976,-82.340971,# Stuzin Hall Walk Way,unknown,134,407
+121,swc,29.638378000000003,-82.368414,SW Recreation Center,sports,457,4582
+122,tge,29.639601000000003,-82.360412,Turfgrass Envirotron,academic,2,50
+123,tig,29.649396999999997,-82.339815,Tigert Hall,admin,33,62
+124,tur,29.649333000000002,-82.343903,Turlington Hall,academic,623,3260
+125,urbe,29.633778000000003,-82.366198,Urban Entomology,academic,4,4
+126,ust,29.650446999999996,-82.346867,Ustler Hall,academic,358,1123
+127,van,29.648549,-82.351042,Van Fleet Hall,admin,176,711
+128,wal,29.649455,-82.34158199999999,Walker Hall,academic,108,175
+129,wei,29.648418,-82.348606,Weil Hall,academic,364,1594
+130,weiclocktower,29.648398999999998,-82.349265,Clock Tower,social,1170,3970
+131,weim,29.647761,-82.347342,Wiemer Hall,academic,207,1238
+132,wm,29.648052000000003,-82.34670899999999,Williamson Hall,academic,119,441
+133,yon,29.649967999999998,-82.347888,Yon Hall,academic,733,5447
+134,pgsv,29.650619,-82.351678,Parking Garage 7,parking,901,0
+135,ffp,29.645631,-82.353482,Flavet Field Parking,parking,902,0
+136,clo,29.642377,-82.351259,Commuter Lot,parking,903,0
+137,pgth,29.638622,-82.347736,Parking Garage 3,parking,904,0
+138,pgtw,29.638976,-82.346742,Parking Garage 2,parking,905,0
+139,pgni,29.636174,-82.349107,Parking Garage 9,parking,906,0
+140,vmp,29.634438,-82.350347,Veterinary Medicine Parking,parking,907,0
+141,lpg,29.635580,-82.347216,Liberty Parking Garage,parking,908,0
+142,fhp,29.637943,-82.362383,Fifield Hall Parking,parking,909,0
+143,pgel,29.637104,-82.368677,Parking Garage 11,parking,910,0
+144,llp,29.649129,-82.359836,Levin Law School Lot,parking,911,0
+145,tcp,29.648437,-82.358455,Alfred A. Ring Lot,parking,912,0
+146,frp,29.647584,-82.357686,Frat Row Parking,parking,913,0
+147,rup,29.644356,-82.347569,Reitz Union Parking,parking,914,0
+148,frhp,29.644587,-82.346208,Frazier-Rodgers Hall Parking,parking,915,0
+149,pgfo,29.645216,-82.342721,Parking Garage 4,parking,916,0
+150,pgni,29.645585,-82.337458,Parking Garage 8,parking,917,0
+151,pgte,29.640577,-82.341669,Parking Garage 10,parking,918,0
+152,vapg,29.638448,-82.343745,VA Parking Garage,parking,919,0
+153,chp,29.649946,-82.340708,Criser Hall Parking,parking,920,0
+154,dop,29.651784,-82.346091,Murphee Hall Parking,parking,921,0
+
+
