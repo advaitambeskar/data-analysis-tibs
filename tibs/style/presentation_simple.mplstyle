@@ -1,0 +1,73 @@
+#### LINES
+lines.linewidth     : 2
+lines.markeredgecolor   : 787878    ## the default markeredgecolor
+lines.markeredgewidth   : 0     ## the line width around the marker symbol
+lines.markersize    : 7
+
+
+#### PATCHES
+patch.linewidth     : 1
+patch.edgecolor     : f0f0f0
+patch.facecolor     : 9a9a9a
+
+
+#### LEGEND
+legend.fancybox     : true
+
+
+#### FONT
+font.size           : 18.0
+
+
+#### TEXT
+text.color          : 707074
+
+
+#### AXES
+axes.edgecolor      : 9a9a9a   ## axes edge color
+axes.grid           : true
+axes.grid.axis      : both
+axes.titlesize      : 32
+axes.labelsize      : 28
+axes.labelcolor     : 707074
+axes.spines.left    : False
+axes.spines.bottom  : False
+axes.spines.top     : False
+axes.spines.right   : False
+axes.prop_cycle     : cycler('color', ['00BEFF', 'D4CA3A', 'FF6DAE', '67E1B5', 'EBACFA', '9E9E9E', 'F1988E', '5DB15A', 'E28544', '52B8AA', '82DD37', '40CDED', '9E51F7', 'F7516D', 'E1F776'])
+axes.facecolor      : ffffff
+axes.linewidth      : 3.0
+axes.titlepad       : 5.0     # pad between axes and title in points
+axes.labelpad       : 5.0     # space between label and axis
+axes.xmargin        : 0  # x margin.  See `axes.Axes.margins`
+axes.ymargin        : 0  # y margin See `axes.Axes.margins`
+
+
+#### TICKS
+xtick.major.size    : 10
+xtick.minor.size    : 7
+xtick.major.width   : 1    ## major tick width in points
+xtick.minor.width   : 1    ## minor tick width in points
+xtick.color         : 787878    ## color of the tick labels
+xtick.labelsize     : 24        ## fontsize of the tick labels
+
+ytick.major.size    : 10
+ytick.minor.size    : 7
+ytick.major.width   : 1    ## major tick width in points
+ytick.minor.width   : 1    ## minor tick width in points
+ytick.color         : 787878    ## color of the tick labels
+ytick.labelsize     : 24        ## fontsize of the tick labels
+
+#### GRIDS
+grid.linestyle      : --
+grid.linewidth      : 1
+grid.color          : cdcdcd
+
+
+#### FIGURE
+figure.subplot.left : 0.08
+figure.subplot.right: 0.95
+figure.subplot.bottom: 0.07
+figure.subplot.wspace  : 0.05
+figure.subplot.hspace  : 0.15
+figure.facecolor    : ffffff
